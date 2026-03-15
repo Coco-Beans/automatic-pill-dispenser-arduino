@@ -29,7 +29,7 @@ The LCD screen displays reminders, while a buzzer alerts the user when it is tim
 5. The system waits for the next cycle.
 
 ## Circuit Diagram
-![Circuit](circuit_diagram.png)
+![Circuit](Circuit_diagram.png)
 
 ## Applications
 • Elderly patient medication reminders  
@@ -44,4 +44,4 @@ The LCD screen displays reminders, while a buzzer alerts the user when it is tim
 • Multiple pill compartments
 
 ## Author
-ECE Student – Embedded Systems Enthusiast
+Laxmi Sathvika Chenna
